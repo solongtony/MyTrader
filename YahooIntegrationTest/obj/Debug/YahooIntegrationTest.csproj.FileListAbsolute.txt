@@ -1,0 +1,7 @@
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\bin\Debug\YahooIntegrationTest.dll
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\bin\Debug\YahooIntegrationTest.pdb
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\obj\Debug\YahooIntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\obj\Debug\YahooIntegrationTest.dll
+C:\Users\user\Documents\visual studio 2012\Projects\MyTrader\YahooIntegrationTest\obj\Debug\YahooIntegrationTest.pdb
